@@ -1,0 +1,45 @@
+# Late Revenge
+
+## I. High Concept
+Super Mario but with first world problems, business suits and Cat Mario rage!
+
+## II. Genre
+Classic side scrolling platformer
+
+## III. Platform
+ use the Web for desktop/laptop users and hopefully will also be mobile friendly. Mobile users will have 2 buttons to jump and move right on screen.
+
+## IV. Story
+You play as Dan Korgs, an ex sales representative for some sales company.
+You just got a job at PearBear Studios another mobile game studio that just opened up, but you forgot to set
+your alarm. You need to make it to work in the next 10 minutes or you will be fired!
+
+## V. Esthetics
+Graphics style- 8-bit
+sound - 8-bit rush music to signify that you are in a hurry to get to work on time
+
+## VI. Gameplay
+### I. Mechanics
+Jump over or on top of people that are moving the opposite direction as you, If you jump on top of them they will vanish like in Mario. The player will have 10 minutes to complete the game since you have to make it to the office on time.
+
+### II. Controls
+- keyboard:
+  - WASD-move
+  - arrows-move
+  - spacebar to jump
+  - "ESC" for pause
+  - hold down "G/g" to super jump
+
+  
+### VII. Teaching the game/New user experience aka "Onboarding"
+There will be an instructions button on the home screen showing the user how to play the game 
+ 
+### VIII. Player Learning
+You will need to remember where certain civilians spawn and some traps that are not obvious to the eye. These traps will more than likely cause rage for the player.
+
+## IX. About the developer
+Peter Vitello is a Game Design major at RIT that is expected to graduate in 2021 I enjoy programming, making 3d models in Blender, making star war images on Photoshop, messing around with Illustrator, and listening and making music).
+
+## X. References
+- https://en.wikipedia.org/wiki/Super_Mario_Bros
+- https://www.pixilart.com/draw
